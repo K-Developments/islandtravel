@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "http://islandhopestravels.com",
+      "destination": "https://islandhopestravels.com",
+      "permanent": true
+    }
+  ]
+}
